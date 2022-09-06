@@ -24,3 +24,12 @@
 - kafka : Producer에서 키 값을 가지는 메세지 전송 구현 + 키 타입의 변경 및 Custom Callback 구현
 - kafka : 피자 주문 시뮬레이션 Producer 구현 
 - erlang : if / case / loop 문 
+
+
+## 22.09.06
+- kafka : acks 설정에 따른 Producer 전송 방식 차이 이해 
+- kafka : Producer 메세지 배치 전송 내부 메커니즘 이해
+- kafka : producer 동기 / 비동기에서 배치 전송 차이
+- kafka : producer 전송/재전송 내부 메커니즘 및 재전송 동작 관련 이해
+- kafka : producer 재전송 관련 이해(최대 한번, 적어도 한번, 정확히 한번) + 멱등성
+- kafka : customer partitioner 
