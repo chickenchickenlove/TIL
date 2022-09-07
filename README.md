@@ -33,3 +33,13 @@
 - kafka : producer 전송/재전송 내부 메커니즘 및 재전송 동작 관련 이해
 - kafka : producer 재전송 관련 이해(최대 한번, 적어도 한번, 정확히 한번) + 멱등성
 - kafka : customer partitioner 
+- erlang : 책 2장 / 3장의 1/3정도
+
+## 22.09.06
+- kafka : consumer 주요 메커니즘 개요
+- kafka : Java 기반 Consumer 구현
+- kafka : poll() 메서드 동작 메커니즘 이해
+- kafka : fetcher 관련 주요 파라미터 / 메커니즘 이해
+- kafka : wakeup을 이용한 consumer 종료
+- kafka : __consumer_offsets / auto.offset.reset 내부 동작 메커니즘
+
