@@ -35,7 +35,7 @@
 - kafka : customer partitioner 
 - erlang : 책 2장 / 3장의 1/3정도
 
-## 22.09.06
+## 22.09.07
 - kafka : consumer 주요 메커니즘 개요
 - kafka : Java 기반 Consumer 구현
 - kafka : poll() 메서드 동작 메커니즘 이해
@@ -43,3 +43,10 @@
 - kafka : wakeup을 이용한 consumer 종료
 - kafka : __consumer_offsets / auto.offset.reset 내부 동작 메커니즘
 
+
+## 22.09.08
+- kafka : Consumer 파티션 할당 전략
+- kafka : Consumer 리밸런스의 Eager / Cooperative 모드
+- kafka : Consumer 여러 개의 토픽 읽기
+- kafka : Consumer Heartbeat 쓰레드 / 파라미터 이해
+- kafka : Consumer Static group 멤버십
