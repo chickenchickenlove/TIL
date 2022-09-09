@@ -50,3 +50,9 @@
 - kafka : Consumer 여러 개의 토픽 읽기
 - kafka : Consumer Heartbeat 쓰레드 / 파라미터 이해
 - kafka : Consumer Static group 멤버십
+
+
+## 22.09.09
+- kafka : Consumer의 읽기 Offset Commit
+- Kafka : Consumer의 Auto Commit 이해 + 중복 읽기 발생 상황 이해
+- Kafka : Consumer의 Auto Commit 
