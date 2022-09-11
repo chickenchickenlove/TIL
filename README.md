@@ -56,3 +56,16 @@
 - kafka : Consumer의 읽기 Offset Commit
 - Kafka : Consumer의 Auto Commit 이해 + 중복 읽기 발생 상황 이해
 - Kafka : Consumer의 Auto Commit 
+
+
+## 22.09.11
+- kafka : Consumer 동기 / 비동기 Manual Commit
+- Kafka : Consumer assign() / Sync()
+- Kafka : Producer 어플리케이션 구현 (txt 파일 변경 감지 → 메세지 전송)
+- Kafka : Consumer, 제네릭 이용한 Consumer 구현
+- Kafka : Consumer, Broker → Postgresql 전송
+- Kafka : 멀티 노드 카프카 클러스터
+- Kafka : 멀티 노드 카프카, replication factor로 topic 생성
+- Kafka : Leader / Follower 이해
+- Kafka : boostrap.servers 설정 이해
+- Kafka : 주키퍼 / 컨트롤러 브로커 
