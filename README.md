@@ -69,3 +69,7 @@
 - Kafka : Leader / Follower 이해
 - Kafka : boostrap.servers 설정 이해
 - Kafka : 주키퍼 / 컨트롤러 브로커 
+
+## 22.09.12
+- Kafka : 주키퍼와 컨트롤러 이해 → 주키퍼 쉘 이용해서 확인
+- Kafka : 컨트롤러와 Leader Election 이해
