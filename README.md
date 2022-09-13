@@ -80,3 +80,13 @@
 - Kafka : custom 직렬/역직렬화 객체 구현
 - kafka : 메세지 로그 세그먼트의 이해
 - Python : 코루틴 / asyncio
+
+## 22.09.14
+- Kafka : 세그먼트 내 메세지 로그 살펴보기
+- Kafka : 인덱스 / 타임 인덱스 세그먼트 이해
+- Kafka : 세그먼트의 생명 주기 
+- Kafka : log.cleanup.policy 정책 이해
+- Kafka : Log Compaction 이해
+
+
+
