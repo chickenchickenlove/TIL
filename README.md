@@ -74,7 +74,7 @@
 - Kafka : 주키퍼와 컨트롤러 이해 → 주키퍼 쉘 이용해서 확인
 - Kafka : 컨트롤러와 Leader Election 이해
 
-## 22.09.12
+## 22.09.13
 - Kafka : ISR, min,insync,replicas
 - Kafka : Preferred / Unclean Leader election
 - Kafka : custom 직렬/역직렬화 객체 구현
